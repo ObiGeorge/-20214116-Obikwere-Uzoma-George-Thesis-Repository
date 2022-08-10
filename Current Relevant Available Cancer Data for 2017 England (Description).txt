@@ -1,0 +1,21 @@
+This document contains the table name description for the tables in the "Current Relevant Available Cancer Data for 2017 England.xls" 
+multi-dataset. The tables in the multi-dataset were selected from the "finaltables14.xlsx" file  which was provided by the 
+"National Cancer Registration and Analysis Service within Public Health England; Office for National Statistics" via
+https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/cancerregistrationstatisticsengland/2017
+
+
+Table numbers and description:
+
+Table 1: Registrations of newly diagnosed cases of cancer (fourth digit): site, sex and age, England, 2017
+
+Table 2: Registrations of newly diagnosed cases of cancer (third digit): site‚ sex and region of residence‚ England, 2017
+
+Table 3: Registrations of newly diagnosed cases of cancer (third digit): site and sex, England, 1995-2017
+
+Table 4: Registrations of newly diagnosed cases of cancer, or deaths from cancer (third digit): site and sex, England, 1995-2017
+
+
+
+
+
+
